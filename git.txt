@@ -1,0 +1,8 @@
+git config --global user.email <emailid>
+git config --global user.name <infy username>
+
+
+git add .
+git commit -m "message"
+git pull //if teammates have made changes, else skip
+git push 
